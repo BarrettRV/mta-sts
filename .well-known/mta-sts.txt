@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mail.barrettrvrepair.com
+mx: backupmx.barrettrvrepair.com
+max_age: 604800
